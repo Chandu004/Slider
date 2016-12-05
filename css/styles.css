@@ -1,0 +1,24 @@
+body{
+    width: 100%;
+}
+
+#image_container{
+    width:80%;
+    margin: 0 auto;
+}
+
+#image_container img{
+    width: 100%;
+    border-radius: 10px;
+    height: 500px;
+}
+.controls{
+    padding: 10px;
+    width:400px;
+    margin:0 auto;
+    text-align: center;
+}
+
+.controls input{
+    width: 100px;
+}
